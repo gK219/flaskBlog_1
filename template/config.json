@@ -1,0 +1,15 @@
+ {
+ 	"params":
+ 	{
+ 		"local_server":"True",
+ 		"local_uri":"mysql://root:@localhost/curiouscoders",
+ 		"prod_uri":"mysql://root:@localhost/curiouscoders",
+ 		"fb_url":"https://facebook.com/curiouscoders",
+ 		"gh_url":"https://github.com/curiouscoders",
+ 		"tw_url":"https://twitter.com/curiouscoders",
+ 		"blog_name":"CuriouS",
+ 		"tag_line":"Curious blogs for"
+
+ 	}
+
+ }

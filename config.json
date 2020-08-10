@@ -1,0 +1,24 @@
+ {
+ 	"params":
+ 	{
+ 		"local_server":"True",
+ 		"local_uri":"mysql://root:@localhost/curiouscoders",
+ 		"prod_uri":"mysql://root:@localhost/curiouscoders",
+ 		"fb_url":"https://facebook.com/curiouscoders",
+ 		"gh_url":"https://github.com/curiouscoders",
+ 		"tw_url":"https://twitter.com/curiouscoders",
+ 		"blog_name":"CuriouS CoderS",
+ 		"tag_line":"Curious blogs for RootCoders",
+ 		"gmail-user":"ironzep21@gmail.com",
+ 		"gmail-password":"look@not219",
+ 		"about_txt":"Hi, i am curious programmer like you. I made this far all programmers alike me ........",
+ 		"no_of_post":6,
+ 		"icons":"icon.svg",
+ 		"admin_user":"Kaushik",
+ 		"admin_pwd":"123$56",
+ 		"upload_location":"C:\\Users\\Dell\\Documents\\flaskBlog_1\\static\\img"
+ 		
+
+ 	}
+
+ }
